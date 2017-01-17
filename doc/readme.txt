@@ -1,0 +1,2 @@
+// SJIS 
+start memo 
